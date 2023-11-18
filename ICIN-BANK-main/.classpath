@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Admin-Portal/admin_service_new/src/main/java"/>
+	<classpathentry kind="src" path="Admin-Portal/admin_service_new/src/test/java"/>
+	<classpathentry kind="src" path="AdminPortalAutomation-master/src"/>
+	<classpathentry kind="src" path="Selenium-Test-Automation/AdminPortalAutomation-master/src"/>
+	<classpathentry kind="src" path="Selenium-Test-Automation/UserPortalTesting/src/test/java"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="UserPortalTesting/src/test/java"/>
+	<classpathentry kind="output" path="AdminPortalAutomation-master/bin"/>
+</classpath>
